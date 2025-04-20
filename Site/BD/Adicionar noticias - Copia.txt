@@ -1,0 +1,9 @@
+<BR>
+<div class="column">
+    <div class="card">
+		<img src="images/trf1.png" class="img">  
+      <h3>Notícia 4</h3>
+      <p>Breve Resumo</p>
+    </div>
+  </div>
+</div>
